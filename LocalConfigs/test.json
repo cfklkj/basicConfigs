@@ -1,0 +1,11 @@
+{ 
+	"routerServerAddr" : "127.0.0.1:5678",
+	"dbService":"dbService",
+	"dbLogTopic":"dbLog",
+	"playerLogTopic" : "playerLog",
+	"brocastTopic":"brocast", 
+	"isMainCommonServer": false,
+	"roomType" : 0,
+	"chargeTopic" : "topic.charge",
+	"countTopic" : "topic.count"	
+}
